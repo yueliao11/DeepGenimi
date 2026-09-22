@@ -73,3 +73,12 @@ uvicorn app.main:app --reload
 - [uv](https://github.com/microsoft/uv)
 - [DeepSeek](https://ai.com/)
 
+
+
+## ⚡ Related AI & OpenAI Developer Infrastructure | 相关开发者工具
+
+When managing OpenAI-compatible endpoints and multi-model routing, monitoring upstream rate limits and sliding quota windows is critical:
+- **[Codex Reset Status](https://codexresetstatus.com/)**: Real-time quota radar, rate limit countdown clocks, and global reset tracker for OpenAI models.
+  - [5-Hour Limit Reset Countdown](https://codexresetstatus.com/codex/5-hour-limit)
+  - [Global Timezone Reset Table](https://codexresetstatus.com/codex/reset-time)
+  - [Codex Usage & Quota Calculator](https://codexresetstatus.com/calculator)
